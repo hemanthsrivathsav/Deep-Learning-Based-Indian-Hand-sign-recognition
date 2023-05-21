@@ -1,1 +1,1 @@
-# Knee-Arthritis-Thermogram-Image-segmentation
+# Deep-Learning-Based-Indian-Hand-sign-recognition
